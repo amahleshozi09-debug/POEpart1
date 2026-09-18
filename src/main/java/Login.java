@@ -2,6 +2,7 @@
 // commit 4 - SA cellphone
 // commit 5 - login feature
 // commit 6 - JUnit test
+// commit 3 - username validation check
 public class Login {
 
     private String username;
@@ -19,7 +20,7 @@ public class Login {
         this.firstName = firstName;
         this.lastName = lastName;
     }
-// commit 3 username validation check
+    
     public boolean checkUserName() {
         return username.contains("_") && username.length() <= 5;
     }
