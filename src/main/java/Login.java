@@ -1,3 +1,4 @@
+// POE Part 1 - Registration feature
 public class Login {
 
     private String username;
