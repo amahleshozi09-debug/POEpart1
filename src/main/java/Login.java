@@ -1,6 +1,7 @@
 // POE Part 1 - Registration feature
 // commit 4 - SA cellphone
 // commit 5 - login feature
+// commit 6 - JUnit test
 public class Login {
 
     private String username;
