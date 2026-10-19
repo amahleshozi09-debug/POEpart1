@@ -1,3 +1,4 @@
+// Part 2 - Main app for sending and storing messages
 import java.util.Scanner;
 
 public class Main {
