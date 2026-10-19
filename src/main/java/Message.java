@@ -1,3 +1,4 @@
+// Part 2 - Message class handles validation and message hash
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
