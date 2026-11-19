@@ -1,3 +1,4 @@
-{"messageID":"0012345678","messageHash":"00:0:HIHI","recipient":"+27718693002","message":"Hi","status":"Stored"}
-{"messageID":"0012345678","messageHash":"00:0:HIHI","recipient":"+27718693002","message":"Hi","status":"Stored"}
-{"messageID":"0012345678","messageHash":"00:0:HIHI","recipient":"+27718693002","message":"Hi","status":"Stored"}
+[
+  {"messageID":"0034567890","messageHash":"00:2:ITTIME","recipient":"+27718693002","message":"It is dinner time!","status":"Stored"},
+  {"messageID":"0045678901","messageHash":"00:3:WHERETIME","recipient":"+27718693002","message":"Where are you? You are late! I have asked you to be on time.","status":"Stored"}
+]
